@@ -1,4 +1,4 @@
-Generate anime faces at the resolution of 128px, see the notebook in the repository for details.
+Generate anime faces at the resolution of 128px, see the notebook in this repository for details.
 The Frechet Inception Distance (FID) calculated from 50000 generated images using the official implementation of FID to Pytorch is 6.94. <br>
 Selected generated images: <br>
 <br>
