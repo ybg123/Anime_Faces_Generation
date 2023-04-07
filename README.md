@@ -5,7 +5,7 @@
 ![128px](generated%20images/128px.png)
 
 ## Interpolation <br>
-* Interpolation in latent space, code is available at
+* Interpolation of latent space, code is available at
 * Image 1 to image 2 <br>
 ![Interpolation1](generated%20images/Interpolation1.png) <br>
 * Image 2 to image 3 <br>
