@@ -4,3 +4,4 @@
 * Selected generated images: <br>
 <br>
 ![128px](generated images/128px.png)
+![128px](https://user-images.githubusercontent.com/61887245/230548997-459fcb98-f12d-4d47-a646-4d2a532ff81f.png)
