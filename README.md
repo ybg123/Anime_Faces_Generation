@@ -6,7 +6,7 @@
 
 ## Interpolation <br>
 * Interpolation of latent space, code is available at
-* Image 1 &#8594 to image 2 <br>
+* Image 1 &#8594; to image 2 <br>
 ![Interpolation1](generated%20images/Interpolation1.png) <br>
 * Image 2 to image 3 <br>
 ![Interpolation2](generated%20images/Interpolation2.png) <br>
