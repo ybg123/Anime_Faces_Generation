@@ -17,5 +17,5 @@
 
 ## References <br>
 <a id="1">[1]</a> Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen. Progressive Growing of GANs for Improved Quality, Stability, and Variation. https://arxiv.org/abs/1710.10196 <br>
-<a id="2">[2]</a> <br>
-<a id="3">[3]</a> <br>
+<a id="2">[2]</a> Lars Mescheder, Andreas Geiger, Sebastian Nowozin. Which Training Methods for GANs do actually Converge? https://arxiv.org/pdf/1801.04406.pdf <br>
+<a id="3">[3]</a>
