@@ -6,3 +6,4 @@
 
 ## Interpolation <br>
 * Image 1 to image 2 <br>
+![Interpolation1](generated%20images/Interpolation1.png)
