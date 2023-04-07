@@ -14,3 +14,6 @@
 ![Interpolation3](generated%20images/Interpolation3.png) <br>
 * Image 1 &#8594; Image 2 &#8594; Image 3 &#8594; Image 1 <br>
 ![Interpolation3](generated%20images/Interpolation.gif) <br>
+
+## References <br>
+1. https://arxiv.org/abs/1710.10196
