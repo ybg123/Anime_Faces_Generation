@@ -5,3 +5,4 @@
 ![128px](generated%20images/128px.png)
 
 ## Interpolation <br>
+* Image 1 to image 2 <br>
