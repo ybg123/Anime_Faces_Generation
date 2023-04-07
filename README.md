@@ -11,6 +11,6 @@
 * Image 2 to image 3 <br>
 ! [Interpolation2](generated%20images/Interpolation2.png) <br>
 * Image 3 to image 1 <br>
-![Interpolation3](generated%20images/Interpolation3.png) <br>
+! [Interpolation3](generated%20images/Interpolation3.png) <br>
 * Image 1, 2 and 3 <br>
 ! [Interpolation3](generated%20images/Interpolation.gif) <br>
