@@ -3,4 +3,4 @@
 * The Frechet Inception Distance (FID) calculated from 50000 generated images using the official implementation of FID to Pytorch is **6.94**. <br>
 * Selected generated images: <br>
 <br>
-! [128px](generated images/128px.png)
+! [128px](generated%20images/128px.png)
