@@ -4,4 +4,4 @@
 * Selected generated images: <br>
 <br>
 ! [alt text](https://github.com/ybg123/Anime_Faces_Generation/blob/main/generated%20images/128px.png)
-! [alt text](https://github.com/ybg123/Anime_Faces_Generation/blob/main/generated%20images/128px.png)?raw=true)
+! [alt text](https://github.com/ybg123/Anime_Faces_Generation/blob/main/generated%20images/128px.png?raw=true)
