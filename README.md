@@ -6,11 +6,11 @@
 
 ## Interpolation <br>
 * Interpolation of latent space, code is available at
-* Image 1 &#8594; to image 2 <br>
+* Image 1 &#8594; Image 2 <br>
 ![Interpolation1](generated%20images/Interpolation1.png) <br>
-* Image 2 to image 3 <br>
+* Image 2 &#8594; Image 3 <br>
 ![Interpolation2](generated%20images/Interpolation2.png) <br>
-* Image 3 to image 1 <br>
+* Image 3 &#8594; Image 1 <br>
 ![Interpolation3](generated%20images/Interpolation3.png) <br>
-* Image 1, 2 and 3 <br>
+* Image 1 &#8594; Image 2 &#8594; Image 3 &#8594; Image 1 <br>
 ![Interpolation3](generated%20images/Interpolation.gif) <br>
