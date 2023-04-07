@@ -16,6 +16,6 @@
 ![Interpolation3](generated%20images/Interpolation.gif) <br>
 
 ## References <br>
-<a id="1">[1]</a> https://arxiv.org/abs/1710.10196
-<a id="2">[2]</a>
-<a id="3">[3]</a>
+<a id="1">[1]</a> https://arxiv.org/abs/1710.10196 <br>
+<a id="2">[2]</a> <br>
+<a id="3">[3]</a> <br>
