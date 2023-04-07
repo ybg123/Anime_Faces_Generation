@@ -21,5 +21,6 @@
 <a id="3">[3]</a> Github repository: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/ProGAN <br>
 <a id="4">[4]</a> Github repository: https://github.com/GaParmar/clean-fid <br>
 <a id="5">[5]</a> Github repository: https://github.com/mseitzer/pytorch-fid <br>
-<a id="6">[6]</a> Kaggle notebook: https://www.kaggle.com/code/theoviel/conditional-progan-30-public <br>
+<a id="6">[6]</a> Kaggle dataset: https://www.kaggle.com/datasets/dimensi0n/anime-faces-dataset <br>
+<a id="7">[7]</a> Kaggle notebook: https://www.kaggle.com/code/theoviel/conditional-progan-30-public
 
