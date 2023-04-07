@@ -18,7 +18,8 @@
 ## References <br>
 <a id="1">[1]</a> Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen. Progressive Growing of GANs for Improved Quality, Stability, and Variation. https://arxiv.org/abs/1710.10196 <br>
 <a id="2">[2]</a> Lars Mescheder, Andreas Geiger, Sebastian Nowozin. Which Training Methods for GANs do actually Converge? https://arxiv.org/pdf/1801.04406.pdf <br>
-<a id="3">[3]</a> Github repository: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/ProGAN
-<a id="4">[4]</a> Github repository: https://github.com/GaParmar/clean-fid
-<a id="5">[5]</a> Github repository: https://github.com/mseitzer/pytorch-fid
+<a id="3">[3]</a> Github repository: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/ProGAN <br>
+<a id="4">[4]</a> Github repository: https://github.com/GaParmar/clean-fid <br>
+<a id="5">[5]</a> Github repository: https://github.com/mseitzer/pytorch-fid <br>
+<a id="6">[6]</a> Kaggle notebook: https://www.kaggle.com/code/theoviel/conditional-progan-30-public <br>
 
